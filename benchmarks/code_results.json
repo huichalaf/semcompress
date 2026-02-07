@@ -1,0 +1,138 @@
+{
+  "requests": {
+    "description": "HTTP for Humans",
+    "files": 12,
+    "original_tokens": 8113,
+    "ratios": {
+      "0.7": {
+        "target": 0.7,
+        "actual": 0.691,
+        "original_tokens": 8113,
+        "compacted_tokens": 5606,
+        "chunks_removed": 36,
+        "chunks_kept": 112,
+        "elapsed": 1.1
+      },
+      "0.5": {
+        "target": 0.5,
+        "actual": 0.4871,
+        "original_tokens": 8113,
+        "compacted_tokens": 3952,
+        "chunks_removed": 78,
+        "chunks_kept": 70,
+        "elapsed": 1.29
+      },
+      "0.3": {
+        "target": 0.3,
+        "actual": 0.2958,
+        "original_tokens": 8113,
+        "compacted_tokens": 2400,
+        "chunks_removed": 115,
+        "chunks_kept": 33,
+        "elapsed": 1.46
+      }
+    }
+  },
+  "flask": {
+    "description": "Web microframework",
+    "files": 4,
+    "original_tokens": 7531,
+    "ratios": {
+      "0.7": {
+        "target": 0.7,
+        "actual": 0.6914,
+        "original_tokens": 7531,
+        "compacted_tokens": 5207,
+        "chunks_removed": 14,
+        "chunks_kept": 35,
+        "elapsed": 0.63
+      },
+      "0.5": {
+        "target": 0.5,
+        "actual": 0.4865,
+        "original_tokens": 7531,
+        "compacted_tokens": 3664,
+        "chunks_removed": 21,
+        "chunks_kept": 28,
+        "elapsed": 0.63
+      },
+      "0.3": {
+        "target": 0.3,
+        "actual": 0.2989,
+        "original_tokens": 7531,
+        "compacted_tokens": 2251,
+        "chunks_removed": 30,
+        "chunks_kept": 19,
+        "elapsed": 0.75
+      }
+    }
+  },
+  "click": {
+    "description": "CLI toolkit",
+    "files": 6,
+    "original_tokens": 6586,
+    "ratios": {
+      "0.7": {
+        "target": 0.7,
+        "actual": 0.6965,
+        "original_tokens": 6586,
+        "compacted_tokens": 4587,
+        "chunks_removed": 40,
+        "chunks_kept": 94,
+        "elapsed": 1.96
+      },
+      "0.5": {
+        "target": 0.5,
+        "actual": 0.4927,
+        "original_tokens": 6586,
+        "compacted_tokens": 3245,
+        "chunks_removed": 68,
+        "chunks_kept": 66,
+        "elapsed": 2.17
+      },
+      "0.3": {
+        "target": 0.3,
+        "actual": 0.3521,
+        "original_tokens": 6586,
+        "compacted_tokens": 2319,
+        "chunks_removed": 106,
+        "chunks_kept": 28,
+        "elapsed": 2.66
+      }
+    }
+  },
+  "fastapi": {
+    "description": "Modern async API framework",
+    "files": 38,
+    "original_tokens": 48769,
+    "ratios": {
+      "0.7": {
+        "target": 0.7,
+        "actual": 0.6999,
+        "original_tokens": 48769,
+        "compacted_tokens": 34132,
+        "chunks_removed": 101,
+        "chunks_kept": 242,
+        "elapsed": 5.06
+      },
+      "0.5": {
+        "target": 0.5,
+        "actual": 0.4919,
+        "original_tokens": 48769,
+        "compacted_tokens": 23989,
+        "chunks_removed": 130,
+        "chunks_kept": 213,
+        "elapsed": 5.47
+      },
+      "0.3": {
+        "target": 0.3,
+        "actual": 0.2874,
+        "original_tokens": 48769,
+        "compacted_tokens": 14016,
+        "chunks_removed": 204,
+        "chunks_kept": 139,
+        "elapsed": 6.8
+      }
+    }
+  }
+}
